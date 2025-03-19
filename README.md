@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Microcomputer and Network Systems Technician<br>📚 I'm studying at the Sabadell Institute<br>🎯 Currently, I'm combining my studies with my job search.<br>🎲 You can meet more about me [here](https://about.me/albadiazbazan)</p>
+✨ Microcomputer and Network Systems Technician<br>📚 I'm studying at the Sabadell Institute<br>🎯 Currently, I'm combining my studies with my job search.<br>🎲 You can meet more about me [here](https://about.me/albadiazbazan)
 
 ###
 
