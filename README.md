@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Alba from Seville and I'm a student of Multiplatform Application Development.</p>
+<p align="center">My name is Alba, I'm from Seville and I'm a student of Multiplatform Application Development.</p>
 
 ###
 
