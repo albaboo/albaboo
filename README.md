@@ -78,7 +78,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/albaboo/albaboo/snake.yml" alt="Snake animation" />
+<img src="https://github.com/albaboo/albaboo/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
