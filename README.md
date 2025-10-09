@@ -77,9 +77,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/albaboo/count.svg?"  />
-</div>
-
-###
