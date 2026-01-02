@@ -1,63 +1,79 @@
-# 👋 ¡Hola! Soy Alba Díaz
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNqbXN5NTBnemFqdm45aTZjbzdlb2hjbnVreXJwc2sxMzlzY3ludyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e2cVxX6XuTaRW/giphy.gif"  />
+</div>
 
-Soy una **desarrolladora en formación** especializada en Desarrollo de Aplicaciones Multiplataforma 📱💻.  
-Actualmente compagino mis estudios como **Técnico en Microinformática y Redes** con la búsqueda activa de nuevas oportunidades donde seguir creciendo 📈.
+###
 
----
+<h1 align="center">Hey 👋 What's up?</h1>
 
-## 🧠 Sobre mí
+###
 
-✨ Siempre curiosa por aprender nuevas tecnologías  
-🛠️ Enfocada en mejorar mis habilidades de programación  
-🎯 Apasionada por crear código limpio y bien documentado
+<p align="center">My name is Alba and I'm a student of Multiplatform Application Development.</p>
 
----
+###
 
-## 💻 Lenguajes y herramientas
+<h2 align="left">👩‍💻  About me</h2>
 
-### 🧑‍💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+###
 
-### 🛠️ Herramientas y Entornos
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+✨ Microcomputer and Network Systems Technician<br>📚 I'm studying at the Sabadell Institute<br>🎯 Currently, I'm combining my studies with my job search.<br>🎲 You can meet more about me [here](https://about.me/albadiazbazan)
 
----
+###
 
-## ⭐ Proyectos destacados
+<h2 align="left">🛠 Language and tools</h2>
 
-Aquí puedes ver algunos de mis proyectos favoritos:
+###
 
-📌 **Briefcases** – Proyecto en HTML  
-🔗 *(aquí va el enlace al repo)*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
 
-📌 **RetroColor** – Proyecto con JavaScript  
-🔗 *(aquí va el enlace al repo)*
+###
 
-> Puedes ver todos mis proyectos en la sección de repositorios 👆
+<div align="center">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="50" alt="eclipseide logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="50" alt="vscode logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" height="50" alt="phpstorm logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="50" alt="arduino logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="50" alt="trello logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="50" alt="gimp logo"  />
+  <img width="50" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="50" alt="photoshop logo"  />
+</div>
 
----
+###
 
-## 📫 ¿Quieres contactarme?
+<div align="center">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="linux logo"  />
+  <img width="80" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="50" alt="ubuntu logo"  />
+  <img width="80" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="50" alt="debian logo"  />
+</div>
 
-🔗 Visita mi perfil en **About.me**: https://about.me/albaboo
+###
 
-📫 Estoy abierta a colaboraciones, ofertas o ideas interesantes 💬
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albaboo/albaboo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albaboo/albaboo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albaboo/albaboo/output/github-contribution-grid-snake.svg">
+</picture>
 
----
-
-## 📊 GitHub Stats
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=albaboo&show_icons=true&theme=radical)
-
----
-
-¡Gracias por visitar mi perfil! 😊
+###
