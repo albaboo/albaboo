@@ -14,31 +14,53 @@
 <h2 align="left">👩‍💻 About me</h2>
 
 ✨ Microcomputer and Network Systems Technician  
-📚 Studying Multiplatform Application Development  
+📚 Currently studying Multiplatform Application Development  
 🎯 Actively looking for my first opportunity as a <b>Junior Developer / Trainee</b>  
-🧠 Interested in application logic, databases and user interfaces  
-🎲 More about me <a href="https://about.me/albadiazbazan">here</a>
+🧠 Interested in backend logic, databases and user interfaces  
+🎲 Learn more about me <a href="https://about.me/albadiazbazan">here</a>
 
 ---
 
 <h2 align="left">🛠 Tech stack</h2>
 
 <h4 align="left">Frontend</h4>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript"/>
 </div>
 
 <h4 align="left">Backend & Databases</h4>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql"/>
 </div>
 
 <h4 align="left">Tools & Environments</h4>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,phpstorm,linux,ubuntu,debian,arduino,trello,git" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="55" alt="eclipse"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="55" alt="phpstorm"/>
+</div>
+
+<h4 align="left">Operating Systems</h4>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55" alt="ubuntu"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="55" alt="debian"/>
 </div>
 
 ---
