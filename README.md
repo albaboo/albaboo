@@ -6,7 +6,7 @@
 
 <p align="center">
   Multiplatform Application Development student <br>
-  Junior developer passionate about learning and building projects 🚀
+  Interested in <b>Backend & Frontend development</b> 🚀
 </p>
 
 ---
@@ -14,63 +14,39 @@
 <h2 align="left">👩‍💻 About me</h2>
 
 ✨ Microcomputer and Network Systems Technician  
-📚 Currently studying Multiplatform Application Development  
-🎯 Looking for my first opportunity as a junior developer or trainee  
-💡 Interested in backend development and application logic  
-🎲 You can learn more about me <a href="https://about.me/albadiazbazan">here</a>
+📚 Studying Multiplatform Application Development  
+🎯 Actively looking for my first opportunity as a <b>Junior Developer / Trainee</b>  
+🧠 Interested in application logic, databases and user interfaces  
+🎲 More about me <a href="https://about.me/albadiazbazan">here</a>
 
 ---
 
-<h2 align="left">🛠 Languages & tools</h2>
+<h2 align="left">🛠 Tech stack</h2>
 
-<h4 align="left">Programming & Databases</h4>
+<h4 align="left">Frontend</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img width="60"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/>
 </div>
 
-<h4 align="left">Tools & environments</h4>
+<h4 align="left">Backend & Databases</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres" height="60"/>
 </div>
 
-<h4 align="left">Operating systems</h4>
+<h4 align="left">Tools & Environments</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img width="20"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,phpstorm,linux,ubuntu,debian,arduino,trello,git" height="60"/>
 </div>
 
 ---
 
 <h2 align="left">📌 Featured projects</h2>
 
-🔹 <b>Briefcases</b> – HTML & CSS project  
-🔹 <b>RetroColor</b> – JavaScript project  
+🔹 <b>Briefcases</b> – HTML & CSS  
+🔹 <b>RetroColor</b> – JavaScript  
 🔹 More projects available in my repositories 👇
 
 ---
