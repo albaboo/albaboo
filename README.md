@@ -45,47 +45,47 @@
 
 <h4 align="left">Frontend</h4>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="HTML5"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="55" alt="CSS3"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
 <h4 align="left">Backend & Languages</h4>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/java/007396" height="55" alt="Java"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="55" alt="C#"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="55" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 <h4 align="left">Databases</h4>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="55" alt="MySQL"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="55" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 <h4 align="left">Tools & Environments</h4>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="55" alt="Git"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="55" alt="VS Code"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/eclipse/2C2255" height="55" alt="Eclipse"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="55" alt="PhpStorm"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
 </div>
 
 <h4 align="left">Operating Systems</h4>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="55" alt="Linux"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="55" alt="Ubuntu"/>
-  <img width="40"/>
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="55" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
 </div>
 
 ---
