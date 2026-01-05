@@ -6,7 +6,7 @@
 
 <p align="center">
   Multiplatform Application Development student <br>
-  Junior developer passionate about learning and building projects 🚀
+  Junior developer passionate about learning and building projects
 </p>
 
 ---
