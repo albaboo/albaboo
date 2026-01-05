@@ -6,29 +6,30 @@
 
 <p align="center">
   Multiplatform Application Development student <br>
-  Focused on both <b>Backend</b> and <b>Frontend</b> development 🚀
+  Junior developer passionate about learning and building projects 🚀
 </p>
 
 ---
 
 <h2 align="left">👩‍💻 About me</h2>
 
-✨ Microcomputer and Network Systems Technician  
-📚 Currently studying Multiplatform Application Development  
-🎯 Actively looking for my first opportunity as a <b>Junior Developer / Trainee</b>  
-💡 I enjoy creating both backend logic and frontend interfaces  
-📫 Learn more about me <a href="https://about.me/albadiazbazan">here</a>
+✨ Microcomputer and Network Systems Technician <br>
+📚 Currently studying Multiplatform Application Development at the Sabadell Institute <br>
+🎯 Starting to work as a <b>Junior Developer</b> <br>
+💡 Interested in application logic, databases and user interfaces <br>
+📫 Learn more about me <a href="https://about.me/albadiazbazan">here</a> <br>
 
 ---
 
 <h2 align="left">📌 Featured Projects</h2>
 
 ### ⭐ **Briefcases**  
-> Frontend project using HTML, CSS & TypeScript  
-🔗 https://github.com/albaboo/Briefcases
+> Portfolio gathering multiple projects from my studies.  
+> Includes: Remote Control with Veyon, Retro Color, RetroPie & Onshape, Arduino IOT, Escape Room, ODS Portal, Memory with JS, Java projects, Trivia Wheel, login tests, and more.  
+🔗 https://github.com/albaboo/Briefcases  
 
 ### ⭐ **RetroColor**  
-> JavaScript / TypeScript project with interactive UI  
+> JavaScript project with interactive UI  
 🔗 https://github.com/albaboo/RetroColor
 
 ### ⭐ **MiniPokemon**  
@@ -54,7 +55,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
-<h4 align="left">Backend & Languages</h4>
+<h4 align="left">Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img width="10"/>
@@ -65,6 +66,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
+<h4 align="left">Frameworks & ORMs</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Doctrine-000000?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Laravel-F9530F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Cavesman-808080?style=for-the-badge&logoColor=white" alt="Cavesman"/>
+</div>
+
 <h4 align="left">Databases</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -72,12 +94,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </div>
 
 <h4 align="left">Tools & IDEs</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img width="10"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
@@ -86,11 +108,17 @@
   <img width="10"/>
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
   <img width="10"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img width="10"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
   <img width="10"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" alt="Gimp"/>
   <img width="10"/>
