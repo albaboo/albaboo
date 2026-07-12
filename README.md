@@ -13,11 +13,11 @@
 
 <h2 align="left">👩‍💻 About me</h2>
 
-✨ Microcomputer and Network Systems Technician <br>
-📚 Currently studying Multiplatform Application Development at the Sabadell Institute <br>
-🎯 Starting to work as a <b>Junior Developer</b> <br>
+✨ Multiplatform Application Developer <br>
+📚 Microcomputer and Network Systems Technician <br>
+🎯 Starting to work as a <b>Junior Web Developer</b> <br>
 💡 Interested in application logic, databases and user interfaces <br>
-📫 Learn more about me <a href="https://about.me/albadiazbazan">here</a> <br>
+📫 Learn more about me <a href="https://about.me/albadiazbazan">here</a> and about my last project <a href="https://about.me/everymemorymatters">there</a><br>
 
 ---
 
