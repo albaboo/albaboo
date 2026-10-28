@@ -5,15 +5,15 @@
 <h1 align="center">Hey 👋 I'm Alba</h1>
 
 <p align="center">
-  Multiplatform Application Development student <br>
-  Junior developer passionate about learning and building projects
+  Multiplatform Application Development Technician specializing in Artificial Intelligence and Data Science <br>
+  Junior Full-Stack Developer passionate about learning and building projects
 </p>
 
 ---
 
 <h2 align="left">👩‍💻 About me</h2>
 
-✨ Multiplatform Application Developer <br>
+✨ Full-Stack Developer <br>
 📚 Microcomputer and Network Systems Technician <br>
 🎯 Starting to work as a <b>Junior Web Developer</b> <br>
 💡 Interested in application logic, databases and user interfaces <br>
@@ -40,6 +40,10 @@
 > Java & PHP backend project using Hibernate ORM  
 🔗 https://github.com/albaboo/hibernate_bang
 
+### ⭐ **gr-generator**  
+> Full-stack web app (Angular + Fastify + Docker) to design custom QR codes and download them as PNG or SVG
+🔗 https://github.com/albaboo/qr-generator
+
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
@@ -53,6 +57,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</div>
 </div>
 
 <h4 align="left">Backend</h4>
@@ -64,6 +71,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</div>
 </div>
 
 <h4 align="left">Frameworks & ORMs</h4>
@@ -85,6 +95,9 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Cavesman-808080?style=for-the-badge&logoColor=white" alt="Cavesman"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+</div>
 </div>
 
 <h4 align="left">Databases</h4>
@@ -117,6 +130,8 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img width="10"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img width="10"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   <img width="10"/>
